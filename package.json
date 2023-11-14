@@ -1,0 +1,20 @@
+{
+  "name": "com.rongxianzhuo.persistentx",
+  "version": "1.0",
+  "displayName": "PersistentX",
+  "description": "Persistent helper.",
+  "category": "Runtime",
+  "documentationUrl": "",
+  "changelogUrl": "",
+  "licensesUrl": "",
+  "dependencies": {
+  },
+  "keywords": [
+    "Database"
+  ],
+  "author": {
+    "name": "Rong Xianzhuo",
+    "email": "rongxianzhuo@gmail.com",
+    "url": "https://github.com/rongxianzhuo"
+  }
+}
