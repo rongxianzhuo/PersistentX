@@ -1,6 +1,6 @@
 {
   "name": "com.rongxianzhuo.persistentx",
-  "version": "1.0",
+  "version": "1.1.0",
   "displayName": "PersistentX",
   "description": "Persistent helper.",
   "category": "Runtime",
